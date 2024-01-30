@@ -15,12 +15,13 @@
 
 - 📫 How to reach me **narayansingh469@gmail.com**
 
-- 📄 Know about my experiences [https://wellfound.com/u/narayansingh469](https://wellfound.com/u/narayansingh469)
+- 📄 Know about my experiences [https://wellfound.com/u/narayansingh469](https://wellfound.com/u/narayansingh469) ([https://wellfound.com/u/narayansingh469](https://www.linkedin.com/in/narayan-singh-14226439/))
 
 - ⚡ Fun fact **I am not funny!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  **narayansingh469@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
