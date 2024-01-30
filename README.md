@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **narayansingh469@gmail.com**
 
-- 📄 Know about my experiences [https://wellfound.com/u/narayansingh469](https://wellfound.com/u/narayansingh469) ([https://wellfound.com/u/narayansingh469](https://www.linkedin.com/in/narayan-singh-14226439/))
+- 📄 Know about my experiences [Wellfound](https://wellfound.com/u/narayansingh469) / [LinkedIn](https://www.linkedin.com/in/narayan-singh-14226439/)
 
 - ⚡ Fun fact **I am not funny!**
 
