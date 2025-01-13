@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Android Projects**
 
-- 👨‍💻 All of my projects are available at [PlayStore](PlayStore)
+- 👨‍💻 All of my projects are available at [PlayStore]([PlayStore](https://play.google.com/store/apps/dev?id=5183860020811781960))
 
 - 💬 Ask me about **ANDROID**
 
