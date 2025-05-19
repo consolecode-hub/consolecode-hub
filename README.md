@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Narayan Singh(ConsoleCode)</h1>
 <h3 align="center">Android and Web Application Developer/Backend Engineer</h3>
 
-- 🔭 I’m currently working on **Node Backend**
+- 🔭 I’m currently working on **Node Backend** and **Python Backend**
 
 - 🌱 I’m currently learning **Unity 3D**
 
@@ -35,14 +35,14 @@ Highly motivated and experienced Full Stack Developer with over 7 years of exper
 ## Skills
 
 **Programming Languages:**
-* Java (Experienced), Kotlin, Python, C#, PHP (Experienced)
+* Java (Experienced), Kotlin, Javascript, Python, C#, PHP (Experienced)
 
 **Mobile Development:**
 * Android SDK, Jetpack Compose, MVC/MVVM architecture
 
 **Web Technologies & Scripting:**
 * JavaScript, HTML5, CSS3
-* Node.js (Next.js, Nest.js), Angular.js
+* Python, Node.js (Next.js, Nest.js), Angular.js
 
 **Databases:**
 * MySQL (Experienced), MongoDB, SQLite, MS SQL, Vector Databases
