@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Narayan Singh(ConsoleCode)</h1>
 <h3 align="center">Android and Web Application Developer/Backend Engineer</h3>
+<h2 align="center">
+  
+[ConsoleCode](https://www.consolecode.com/)
+</h2>
+  <h2 align="center">
+    
+[Game](https://www.game.consolecode.com/)
+  </h2>
 
 - 🔭 I’m currently working on **Node Backend** and **Python Backend**
 
@@ -173,25 +181,24 @@ Highly motivated and experienced Full Stack Developer with over 7 years of exper
 
 ## Game Projects
 
-**1. Classic Board Game (Rota - Unity 3D)** | Self Work (Offsite, Part-Time)
-*Jul 2024 - Aug 2024*
-* Strategic board game inspired by Tic Tac Toe, set in ancient Rome.
-* *Technologies:* Unity 3D, C#.
-* *Link:* [Google Play](https://play.google.com/store/apps/details?id=com.ConsoleCode.ClassicBoardGames)
-
-**2. Column UP (Unity 3D)** | Self Work (Offsite, Part-Time)
-*Jul 2024 - Aug 2024*
-* 3D platformer game involving jumping on columns, collecting stars, and reaching new heights.
-* *Technologies:* Unity 3D, C#.
-* *Link:* [Google Play](https://play.google.com/store/apps/details?id=com.consolecode.columnup)
-
-**3. Stack UP (Unity 3D)** | Self Work (Offsite, Part-Time)
+**1. Stack UP (Unity 3D)** | Self Work (Offsite, Part-Time)
 *Jan 2025 - May 2025*
 * 🏗️ How high can you stack? Test your puzzle skills in 3D!
 Stack UP is a physics-based 3D puzzle game. Rotate and drop colorful cube clusters to build towering structures. Plan your moves carefully to keep your stack stable and score big!
 * *Technologies:* Unity 3D, C#.
 * *Link:* [Google Play](https://play.google.com/store/apps/details?id=com.consolecode.stack)
+  
+**2. Classic Board Game (Rota - Unity 3D)** | Self Work (Offsite, Part-Time)
+*Jul 2024 - Aug 2024*
+* Strategic board game inspired by Tic Tac Toe, set in ancient Rome.
+* *Technologies:* Unity 3D, C#.
+* *Link:* [Google Play](https://play.google.com/store/apps/details?id=com.ConsoleCode.ClassicBoardGames)
 
+**3. Column UP (Unity 3D)** | Self Work (Offsite, Part-Time)
+*Jul 2024 - Aug 2024*
+* 3D platformer game involving jumping on columns, collecting stars, and reaching new heights.
+* *Technologies:* Unity 3D, C#.
+* *Link:* [Google Play](https://play.google.com/store/apps/details?id=com.consolecode.columnup)
 
 ## Key Project Domain Expertise
 * **2020 - 2023:** College ERP, Tele Calling CRM, Pharmacy MIS, Pathology MIS, Production Management MIS.
