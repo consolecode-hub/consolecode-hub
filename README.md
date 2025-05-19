@@ -92,7 +92,7 @@ Highly motivated and experienced Full Stack Developer with over 7 years of exper
 * Integrated third-party APIs, web applications, and UI designs.
 * Developed Product Packaging/palette management systems (CG/MP/UP Excise).
 
-## Projects
+## Application Projects
 
 **1. ClearSpot-Inspections with DJI** | ClearSpot, Orlando, Florida (Part-Time)
 *Oct 2024 - Present*
@@ -123,65 +123,75 @@ Highly motivated and experienced Full Stack Developer with over 7 years of exper
 * *Technologies:* Android (Java).
 * *Links:* [Google Play](https://play.google.com/store/apps/details?id=com.rokit.project502.android), [Website](https://rokit.com/)
 
-**5. Classic Board Game (Rota - Unity 3D)** | Self Work (Offsite, Part-Time)
-*Jul 2024 - Aug 2024*
-* Strategic board game inspired by Tic Tac Toe, set in ancient Rome.
-* *Technologies:* Unity 3D, C#.
-* *Link:* [Google Play](https://play.google.com/store/apps/details?id=com.ConsoleCode.ClassicBoardGames)
-
-**6. Column UP (Unity 3D)** | Self Work (Offsite, Part-Time)
-*Jul 2024 - Aug 2024*
-* 3D platformer game involving jumping on columns, collecting stars, and reaching new heights.
-* *Technologies:* Unity 3D, C#.
-* *Link:* [Google Play](https://play.google.com/store/apps/details?id=com.consolecode.columnup)
-
-**7. Udhaivi Healthcare** | Udhaivi Healthcare (Onsite, Full-Time)
+**5. Udhaivi Healthcare** | Udhaivi Healthcare (Onsite, Full-Time)
 *Apr 2022 - Jan 2023*
 * Remote Patient Monitoring System for preventive healthcare, continuous vital monitoring, and emergency response.
 * *Technologies:* Android (Java/Kotlin).
 * *Link:* [Google Play](https://play.google.com/store/apps/details?id=com.udhaivi.healthcare&hl=en-IN)
 
-**8. MJGE - a learning app** | M J Group of Education (Offsite, Full-Time)
+**6. MJGE - a learning app** | M J Group of Education (Offsite, Full-Time)
 *Aug 2020 - Feb 2021*
 * Free online learning app for students with class notes, video lectures, and course material.
 * *Technologies:* Android (Java/Kotlin), PHP, MySQL.
 * *Link:* [Google Play](https://play.google.com/store/apps/details?id=com.mjge.college)
 
-**9. Quality MIS** | Makesure (Offsite, Full-Time)
+**7. Quality MIS** | Makesure (Offsite, Full-Time)
 *Feb 2020 - Apr 2020*
 * App enabling communication across clients to improve business productivity.
 * *Technologies:* Android (Java/Kotlin).
 * *Link:* [Google Play](https://play.google.com/store/apps/details?id=com.sundaramtech.notifeed)
 
-**10. Enlighten Education Live** | Enlighten Education Institute (Offsite, Full-Time)
+**8. Enlighten Education Live** | Enlighten Education Institute (Offsite, Full-Time)
 *Jan 2020 - Feb 2021*
 * App for live classes by top educators, recorded sessions, doubt resolution, exam updates, and mock tests.
 * *Technologies:* Android (Java/Kotlin).
 * *Link:* [Google Play](https://play.google.com/store/apps/details?id=com.app.tutorial.online)
 
-**11. Sundaram Technologies EMP** | Sundaram Technologies (Offsite, Full-Time)
+**9. Sundaram Technologies EMP** | Sundaram Technologies (Offsite, Full-Time)
 *Jan 2019 - Apr 2021*
 * Employee app for attendance clocking, expense tracking, and work details.
 * *Technologies:* Android (Java/Kotlin).
 * *Link:* [Google Play](https://play.google.com/store/apps/details?id=com.sundaramtech.stemp)
 
-**12. Sundaram Technologies Track-N-Trace** | Sundaram Technologies (Onsite, Full-Time)
+**10. Sundaram Technologies Track-N-Trace** | Sundaram Technologies (Onsite, Full-Time)
 *Mar 2018 - Apr 2019*
 * Track and Trace system, likely related to excise or logistics.
 * *Technologies:* Android (Java/Kotlin).
 * *Link:* [CG Excise (related portal)](https://excise.cg.nic.in/)
 
-**13. Constitution of India (About India)** | Self Work (Offsite, Full-Time)
+**11. Constitution of India (About India)** | Self Work (Offsite, Full-Time)
 *Sep 2018 - Jan 2019*
 * App presenting the complete Indian Constitution with news and quiz sections.
 * *Technologies:* Android (Java/Kotlin).
 * *Link:* [Google Play](https://play.google.com/store/apps/details?id=com.indian.constitution)
 
-**14. AVideo Player** | Self Work (Offsite, Full-Time)
+**12. AVideo Player** | Self Work (Offsite, Full-Time)
 *Oct 2017 - Jan 2018*
 * Media player application for various video formats with web link playback and download support.
 * *Technologies:* Android (Java/Kotlin).
 * *Link:* [Google Play](https://play.google.com/store/apps/details?id=com.consolecode.qvideo)
+
+## Game Projects
+
+**1. Classic Board Game (Rota - Unity 3D)** | Self Work (Offsite, Part-Time)
+*Jul 2024 - Aug 2024*
+* Strategic board game inspired by Tic Tac Toe, set in ancient Rome.
+* *Technologies:* Unity 3D, C#.
+* *Link:* [Google Play](https://play.google.com/store/apps/details?id=com.ConsoleCode.ClassicBoardGames)
+
+**2. Column UP (Unity 3D)** | Self Work (Offsite, Part-Time)
+*Jul 2024 - Aug 2024*
+* 3D platformer game involving jumping on columns, collecting stars, and reaching new heights.
+* *Technologies:* Unity 3D, C#.
+* *Link:* [Google Play](https://play.google.com/store/apps/details?id=com.consolecode.columnup)
+
+**3. Stack UP (Unity 3D)** | Self Work (Offsite, Part-Time)
+*Jan 2025 - May 2025*
+* 🏗️ How high can you stack? Test your puzzle skills in 3D!
+Stack UP is a physics-based 3D puzzle game. Rotate and drop colorful cube clusters to build towering structures. Plan your moves carefully to keep your stack stable and score big!
+* *Technologies:* Unity 3D, C#.
+* *Link:* [Google Play](https://play.google.com/store/apps/details?id=com.consolecode.stack)
+
 
 ## Key Project Domain Expertise
 * **2020 - 2023:** College ERP, Tele Calling CRM, Pharmacy MIS, Pathology MIS, Production Management MIS.
